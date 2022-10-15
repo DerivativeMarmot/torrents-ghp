@@ -1,0 +1,74 @@
+{
+    "The Pirate Bay":{
+        "logo": {
+            "path": "https://torrindex.net/images/tpb.jpg",
+            "html_base64": ""
+        },
+        "display_name": "The Pirate Bay",
+        "target": "https://thepiratebay.org/"
+    },
+    "TorrentDownloads":{
+        "logo": {
+            "path": "https://www.torrentdownloads.pro/templates/new/images/logo.png",
+            "html_base64": ""
+        },
+        "display_name": "TorrentDownload",
+        "target": "https://www.torrentdownloads.me/"
+    },
+    "RARBG":{
+        "logo": {
+            "path": "https://dyncdn.me/static/20/img/logo_dark_nodomain2_optimized.png",
+            "html_base64": ""
+        },
+        "display_name": "RARBG",
+        "target": "https://rarbg.to/index8.php"
+    },
+    "IsoHunts":{
+        "logo": {
+            "path": "./res/logo/isohunts-logo.svg",
+            "html_base64": ""
+        },
+        "display_name": "IsoHunts",
+        "target": "https://isohunts.to/"
+    },
+    "YourBittorrent":{
+        "logo": {
+            "path": "https://y.0cdn.xyz/static/logo.webp",
+            "html_base64": ""
+        },
+        "display_name": "YourBittorrent",
+        "target": "https://yourbittorrent.com/"
+    },
+    "IDOPE":{
+        "logo": {
+            "path": "https://www.bestsevenreviews.com/wp-content/uploads/2019/04/IjuPSt1_Image_009.png",
+            "html_base64": ""
+        },
+        "display_name": "IDOPE",
+        "target": "https://idope.se/"
+    },
+    "1337x":{
+        "logo": {
+            "path": "https://1337x.to/images/logo.svg",
+            "html_base64": ""
+        },
+        "display_name": "1337x",
+        "target": "https://1337x.to/"
+    },
+    "Demonoid":{
+        "logo": {
+            "path": "https://demonoid.is/images/hotlink-ok/d5-logo.png",
+            "html_base64": ""
+        },
+        "display_name": "Demonoid",
+        "target": "https://www.demonoid.is/"
+    },
+    "#":{
+        "logo": {
+            "path": "",
+            "html_base64": ""
+        },
+        "display_name": "PlaceHolder",
+        "target": ""
+    }
+}
